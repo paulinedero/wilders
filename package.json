@@ -1,0 +1,23 @@
+{
+  "name": "workshop-wilder-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinedero/wilders.git"
+  },
+  "author": "Pauline De Ro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinedero/wilders/issues"
+  },
+  "homepage": "https://github.com/paulinedero/wilders#readme"
+}
