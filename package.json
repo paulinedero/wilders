@@ -8,13 +8,14 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/paulinedero/wilders.git"
   },
-  "author": "Pauline De Ro",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/paulinedero/wilders/issues"
